@@ -1,0 +1,25 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+
+# Logs / Outputs
+*.log
+typed_output.txt
+
+# OS generated files
+.DS_Store
+Thumbs.db
